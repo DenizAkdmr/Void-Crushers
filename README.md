@@ -77,4 +77,4 @@ No build tools or dependencies are required. This project is entirely self-conta
 
 ## **📄 License**
 
-This project is open-source. Feel free to fork, modify, and deploy your own sectors\!
+This project is open-source. Feel free to modify, and deploy your own sectors\!
