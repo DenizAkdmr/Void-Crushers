@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/23830677/README.3.md)
 # **Void Vanguard**
 
 System Alert: massive energy signature detected in Sector 7\.  
